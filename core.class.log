@@ -1,0 +1,246 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573137182944@s.whatsapp.net',
+    fromMe: false,
+    id: '2D46CB0B7DB7EE274BB2C372B6759025',
+    participant: undefined
+  },
+  messageTimestamp: 1745327093,
+  pushName: 'Jorge Luis',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hello',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Jorge Luis',
+  body: 'Hello',
+  from: '573137182944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f9cf8832-8bc3-4610-9971-7eeddd6683da',
+  keyword: 'key_5d6eebd3-6121-4a00-929d-165cb219d004',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f78b247340b6963de6994552667341ec'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573137182944@s.whatsapp.net',
+    fromMe: false,
+    id: '77FA45981B68A01E6D5765C7B9804178',
+    participant: undefined
+  },
+  messageTimestamp: 1745327117,
+  pushName: 'Jorge Luis',
+  broadcast: false,
+  message: Message {
+    conversation: '1053767927',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Jorge Luis',
+  body: '1053767927',
+  from: '573137182944'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573137182944@s.whatsapp.net',
+    fromMe: false,
+    id: 'B8EFA57743E2F064324563CB4B94C146',
+    participant: undefined
+  },
+  messageTimestamp: 1745327170,
+  pushName: 'Jorge Luis',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11833739_1761936861391393_8408107694422459804_n.enc?ccb=11-4&oh=01_Q5Aa1QH5UBcnsEroo6EpcFAFVWTjawUMyKCXZ5XXPf5LBJtHlQ&oe=682F1CC7&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 2,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11833739_1761936861391393_8408107694422459804_n.enc?ccb=11-4&oh=01_Q5Aa1QH5UBcnsEroo6EpcFAFVWTjawUMyKCXZ5XXPf5LBJtHlQ&oe=682F1CC7&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Jorge Luis',
+  body: '_event_voice_note__239fb2c3-f45e-4668-a3a6-037a7e775ec0',
+  from: '573137182944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_92cd9625-e274-4e3f-a4fc-9be4a5ea3da9',
+  keyword: 'key_b3caaeda-e7c2-4a16-98ea-6b16a2460900',
+  answer: 'Procesando nota de voz...🔄',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '12e27a591b0ea4cd5ef7db028238110d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573137182944@s.whatsapp.net',
+    fromMe: false,
+    id: '3AAF20A20F275A44E4C6825B1A11F75C',
+    participant: undefined
+  },
+  messageTimestamp: 1745327181,
+  pushName: 'Jorge Luis',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Jorge Luis',
+  body: '2',
+  from: '573137182944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f9cf8832-8bc3-4610-9971-7eeddd6683da',
+  keyword: 'key_5d6eebd3-6121-4a00-929d-165cb219d004',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f78b247340b6963de6994552667341ec'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573137182944@s.whatsapp.net',
+    fromMe: false,
+    id: '81FCB7E8418173F6C47C69AC4FB3473B',
+    participant: undefined
+  },
+  messageTimestamp: 1745327191,
+  pushName: 'Jorge Luis',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11876468_1196000518839792_7508253601563462991_n.enc?ccb=11-4&oh=01_Q5Aa1QGdakpDvOQyPgHbvC363_G0FcLyJtPsMSEOrWu_T-MFnA&oe=682F0E01&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 5,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11876468_1196000518839792_7508253601563462991_n.enc?ccb=11-4&oh=01_Q5Aa1QGdakpDvOQyPgHbvC363_G0FcLyJtPsMSEOrWu_T-MFnA&oe=682F0E01&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Jorge Luis',
+  body: '_event_voice_note__8689a256-45e6-4e2c-a9be-c4a3cdbb8001',
+  from: '573137182944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_92cd9625-e274-4e3f-a4fc-9be4a5ea3da9',
+  keyword: 'key_b3caaeda-e7c2-4a16-98ea-6b16a2460900',
+  answer: 'Procesando nota de voz...🔄',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '12e27a591b0ea4cd5ef7db028238110d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573137182944@s.whatsapp.net',
+    fromMe: false,
+    id: '7642EE3507CCA95ED2A743A1E364FDA1',
+    participant: undefined
+  },
+  messageTimestamp: 1745327204,
+  pushName: 'Jorge Luis',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Jorge Luis',
+  body: '1',
+  from: '573137182944'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f9cf8832-8bc3-4610-9971-7eeddd6683da',
+  keyword: 'key_5d6eebd3-6121-4a00-929d-165cb219d004',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f78b247340b6963de6994552667341ec'
+}
